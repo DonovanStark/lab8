@@ -1,0 +1,14 @@
+[
+{"type": 4 ,"question":"The constant floating-point value 3.2*10^(-12) would be expressed in python by which of the following?.", "answers": ["(1):3.2*10**-12","(2):3.2e-12","(3):3.2*10^(-12)","(4):3.2,10,-12"] , "correct" : 2}, 
+{"type": 2 ,"question":"In Python 3, the maximum value for an integer is 2^63-1","answers":["(1)True","(2)False"], "correct":2},
+{"type": 3 ,"question":"Which of the following is not a string method?","answers":["(1):.upper()","(2):.rstrip()","(3):.index()"],"correct":3},
+{"type": 2 ,"question":"Expressions reduce to values.","answers":["(1):True","(2):False"],"correct":1},
+{"type": 4 ,"question":"If list = [1,2,3,4] and you wanted to print the number 4 which of the following would be correct?","answers":["(1):print(list(4))","(2):print(list)","(3):print(list[4])","(4):print(list[3])"],"correct":4},
+{"type": 3 ,"question":"What would be the error if you ran the following code?:int('No')","answers":["(1):NameError","(2):ValueError","(3):IntError"],"correct":2},
+{"type": 2 ,"question":"A blank except after a try is always ok.","answers":["(1):True","(2):False"],"correct":2},
+{"type": 2 ,"question":"Commenting code is good practice whether or not it will be looked at by others.","answers":["(1):True","(2):False"],"correct":1},
+{"type": 3 ,"question":"Which of the following uses keys binded to values?","answers":["(1):Dictionaries","(2):Lists","(3):Strings"],"correct":1},
+{"type": 4 ,"question":"The .append() method belongs to which of the following types?","answers":["(1):Integer","(2):List","(3):String","(4):Dictionary"],"correct":2}
+]
+
+
